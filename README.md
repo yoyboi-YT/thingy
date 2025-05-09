@@ -1,2 +1,0 @@
-# thingy
-the thingy
